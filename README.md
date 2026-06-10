@@ -14,8 +14,11 @@ The project covers:
 ## Project Architecture
 
 Data Source:  SQL Server - AdventureWorksDW2025
+
 Data Transformation: SQL Views - Fact/Dimension Modelling
+
 Analysis Layer: Excel FP&A Model
+
 Version Controls: GitHub Repository
 
 ## Objectives
