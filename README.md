@@ -22,8 +22,18 @@ The primary objective of this project is to simulate the work of an FP&A Analyst
 
 SQL Server (AdventureWorksDW2025)
 
-           &darr;
+          ⬇️
 
 Data Modelling (SSMS Views)
 
+          ⬇️
 
+Scenario & Forecast Layer
+
+          ⬇️
+
+Excel Model (Calculations)
+
+          ⬇️
+
+Interactive Dashboard
