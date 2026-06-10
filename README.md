@@ -35,3 +35,34 @@ Version Controls: GitHub Repository
 - Excel (Power Query & Modelling)
 - GitHub
 - Git
+
+## Project Structure
+
+fpa_adventureworks-project | data/ | AdventureWorksDW2025.bak | sql/ | restore.sql | views/ | 
+transformations/ | excel/ | FP&A Model.xlsx | documentary/ | methodology.md | README.md
+
+## Project Setup
+
+1. GitHub Repository setup
+2. SQL Server installation & database restore
+3. Data modelling (SSMS)
+4. Excel FP&A model build
+
+## Outputs
+
+- Revenue dashboard
+- Cost analysis
+- Profitability KPIs
+- Forecast & variance reports
+
+## Optional Enhancements
+
+- Automation with Power Query refresh
+
+## Author
+
+Grant Britchford
+
+Data analyst
+
+10th June 2026
