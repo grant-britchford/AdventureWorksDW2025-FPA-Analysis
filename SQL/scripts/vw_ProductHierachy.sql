@@ -1,4 +1,4 @@
-CREATE VIEW vw_ProductHierachy AS
+CREATE VIEW vw_ProductHierarchy AS
 SELECT
 p.ProductKey,
 p.EnglishProductName,
